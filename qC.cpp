@@ -58,7 +58,7 @@ int main() {
             for (auto y: x)
                 cout << y << "  ";
             cout<<endl;
-        }...
+        }......
          */
         cout << *min_element(min_price_vec[n].begin(), min_price_vec[n].end())<<endl;
     }
